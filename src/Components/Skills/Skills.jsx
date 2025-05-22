@@ -284,7 +284,7 @@ const Skills = () => {
                   </div>
 
                   <div className="flex flex-col justify-center items-center gap-4">
-                    <p className="font-extrabold text-4xl underline underline-offset-8 mb-5 text-[#64ccc5]">
+                    <p className="font-extrabold text-2xl underline underline-offset-8 mb-5 text-[#64ccc5]">
                       Explore More
                     </p>
                     <div
