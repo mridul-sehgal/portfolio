@@ -289,31 +289,31 @@ const Skills = () => {
                     </p>
                     <div
                       onClick={() => setElement(0)}
-                      className="w-72 text-center font-bold border-2 rounded-2xl border-[#64ccc5] text-[#64ccc5]  cursor-pointer py-1 px-8 hover:text-black hover:font-semibold hover:bg-[#64ccc5] mb-1 "
+                      className="w-72 text-center text-sm font-bold border-2 rounded-2xl border-[#64ccc5] text-[#64ccc5]  cursor-pointer py-1 px-8 hover:text-black hover:font-semibold hover:bg-[#64ccc5] mb-1 "
                     >
                       Front-end Technologies
                     </div>
                     <div
                       onClick={() => setElement(1)}
-                      className="w-72 text-center font-bold border-2 rounded-2xl border-[#64ccc5] text-[#64ccc5]  cursor-pointer py-1 px-8 hover:text-black hover:font-semibold hover:bg-[#64ccc5] mb-1 "
+                      className="w-72 text-center text-sm font-bold border-2 rounded-2xl border-[#64ccc5] text-[#64ccc5]  cursor-pointer py-1 px-8 hover:text-black hover:font-semibold hover:bg-[#64ccc5] mb-1 "
                     >
                       Back-end Technologies
                     </div>
                     <div
                       onClick={() => setElement(2)}
-                      className="w-72 text-center font-bold border-2 rounded-2xl border-[#64ccc5] text-[#64ccc5]  cursor-pointer py-1 px-8 hover:text-black hover:font-semibold hover:bg-[#64ccc5] mb-1  "
+                      className="w-72 text-center text-sm font-bold border-2 rounded-2xl border-[#64ccc5] text-[#64ccc5]  cursor-pointer py-1 px-8 hover:text-black hover:font-semibold hover:bg-[#64ccc5] mb-1  "
                     >
                       Programming Languages
                     </div>
                     <div
                       onClick={() => setElement(3)}
-                      className="w-72 text-center font-bold border-2 rounded-2xl border-[#64ccc5] text-[#64ccc5]  cursor-pointer py-1 px-8 hover:text-black hover:font-semibold hover:bg-[#64ccc5] mb-1  "
+                      className="w-72 text-center text-sm font-bold border-2 rounded-2xl border-[#64ccc5] text-[#64ccc5]  cursor-pointer py-1 px-8 hover:text-black hover:font-semibold hover:bg-[#64ccc5] mb-1  "
                     >
                       Tools and Technologies
                     </div>
                     <div
                       onClick={() => setElement(4)}
-                      className="w-72 text-center font-bold border-2 rounded-2xl border-[#64ccc5] text-[#64ccc5]  cursor-pointer py-1 px-8 hover:text-black hover:font-semibold hover:bg-[#64ccc5] mb-1  "
+                      className="w-72 text-center text-sm font-bold border-2 rounded-2xl border-[#64ccc5] text-[#64ccc5]  cursor-pointer py-1 px-8 hover:text-black hover:font-semibold hover:bg-[#64ccc5] mb-1  "
                     >
                       Relevant Course Work
                     </div>
